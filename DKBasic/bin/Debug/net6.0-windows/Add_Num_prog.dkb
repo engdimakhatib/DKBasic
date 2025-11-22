@@ -1,0 +1,10 @@
+procedure Add_Num( num1 , num2 output result );
+{
+result := num1 + num2 
+}
+
+main{
+read(x,y);
+call Add_Num ( x , y output sum );
+write('The sum is : ' ,sum  );
+}

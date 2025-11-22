@@ -1,0 +1,5 @@
+main
+{
+x := 5 ; 
+write('the value of x is : ' , x );
+}

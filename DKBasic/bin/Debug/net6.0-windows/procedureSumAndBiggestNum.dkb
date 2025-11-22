@@ -1,0 +1,11 @@
+procedure sumAndBiggestNum ( num1 , mu2 output sum , biggestNum );
+{
+sum := num1 + num2 ;
+if ( num1 < num2 ) then 
+{
+biggestNum  := num2 ;
+}
+else {
+biggestNum  := num1 ;
+}
+}

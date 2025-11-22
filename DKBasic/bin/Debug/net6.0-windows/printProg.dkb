@@ -1,0 +1,4 @@
+#include 'f1.dkb'
+main{
+call print('Hi World !!!!');
+}

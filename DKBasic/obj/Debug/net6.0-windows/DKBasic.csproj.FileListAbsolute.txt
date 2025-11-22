@@ -1,0 +1,67 @@
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\bin\Debug\net6.0-windows\DKBasic.exe
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\bin\Debug\net6.0-windows\DKBasic.deps.json
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\bin\Debug\net6.0-windows\DKBasic.runtimeconfig.json
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\bin\Debug\net6.0-windows\DKBasic.dll
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\bin\Debug\net6.0-windows\ref\DKBasic.dll
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\bin\Debug\net6.0-windows\DKBasic.pdb
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.GlobalUsings.g.cs
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.csproj.AssemblyReference.cache
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.Form1.resources
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.AboutDKBasicForm.resources
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.InputForm.resources
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.MainForm.resources
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.Properties.Resources.resources
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.csproj.GenerateResource.cache
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.AssemblyInfoInputs.cache
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.AssemblyInfo.cs
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.csproj.CoreCompileInputs.cache
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.dll
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\ref\DKBasic.dll
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.pdb
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.genruntimeconfig.cache
+C:\Users\Dima Khatib\Desktop\DKBasic - Copy\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.OutputForm.resources
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.exe
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.deps.json
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.runtimeconfig.json
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.dll
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\bin\Debug\net6.0-windows\ref\DKBasic.dll
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.pdb
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.GlobalUsings.g.cs
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Form1.resources
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.AboutDKBasicForm.resources
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.InputForm.resources
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.MainForm.resources
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.OutputForm.resources
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Properties.Resources.resources
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.csproj.GenerateResource.cache
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.AssemblyInfoInputs.cache
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.AssemblyInfo.cs
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.csproj.CoreCompileInputs.cache
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.dll
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\ref\DKBasic.dll
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.pdb
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.genruntimeconfig.cache
+C:\Users\Dima Khatib\Desktop\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.csproj.AssemblyReference.cache
+G:\break-continue\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.exe
+G:\break-continue\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.deps.json
+G:\break-continue\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.runtimeconfig.json
+G:\break-continue\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.dll
+G:\break-continue\DKBasic\DKBasic\bin\Debug\net6.0-windows\ref\DKBasic.dll
+G:\break-continue\DKBasic\DKBasic\bin\Debug\net6.0-windows\DKBasic.pdb
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Form1.resources
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.AboutDKBasicForm.resources
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.InputForm.resources
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.MainForm.resources
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Forms.OutputForm.resources
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.Properties.Resources.resources
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.csproj.GenerateResource.cache
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.GeneratedMSBuildEditorConfig.editorconfig
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.AssemblyInfoInputs.cache
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.AssemblyInfo.cs
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.csproj.CoreCompileInputs.cache
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.dll
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\ref\DKBasic.dll
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.pdb
+G:\break-continue\DKBasic\DKBasic\obj\Debug\net6.0-windows\DKBasic.genruntimeconfig.cache

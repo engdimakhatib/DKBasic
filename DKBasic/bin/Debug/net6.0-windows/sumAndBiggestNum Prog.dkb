@@ -1,0 +1,6 @@
+#include 'procedureSumAndBiggestNum.dkb'
+main {
+call sumAndBiggestNum  ( 5 ,  10 output  resultSum , resultMax );
+writeln ( 'The Sum is : ' , resultSum   );
+writeln ( 'The Max  is : ' , resultMax );
+}

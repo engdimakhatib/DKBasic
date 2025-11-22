@@ -1,0 +1,14 @@
+main {
+   read( numDay );
+    switch numDay of :
+    {
+        1 : writeln('The Day is : Saturday');
+        2 : writeln('The Day is :  Sunday');
+        3: writeln('The Day is :  Monday');
+        4 : writeln('The Day is :  Tuesday');
+        5 : writeln('The Day is :  Wednesday');
+        6 : writeln('The Day is :  Thursday');
+        7 : writeln('The Day is :   Friday');
+Default : writeln('Not a Day number');
+    }
+}

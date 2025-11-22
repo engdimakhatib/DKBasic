@@ -1,0 +1,23 @@
+/*procedure to check if number
+is even or odd */
+procedure checkEvenOrOdd ( num );
+{
+if ( num % 2 = 0 ) then {
+writeln( num , ' is even' );
+}
+else {
+writeln( num , ' is odd' );
+}
+}
+//main program
+main {
+maxNum := 0 ;
+read( maxNum);
+current := 0 ;
+while ( current <= maxNum )Do {
+//check if current is even or odd 
+call checkEvenOrOdd (current);
+writeln('------------------------------------------');
+current := current + 1 ;
+}
+}

@@ -1,0 +1,14 @@
+main 
+{
+read(num);
+if( num < 0 ) then 
+{
+write('num is negative');
+}
+else if( num > 0 ) then 
+{
+write('num is positive');
+}
+else { write('num is Zero');
+}
+}

@@ -1,0 +1,8 @@
+main{
+i := 0 ;
+while( i<=5) DO
+   {
+       writeln(i);
+        i++;
+     } 
+}

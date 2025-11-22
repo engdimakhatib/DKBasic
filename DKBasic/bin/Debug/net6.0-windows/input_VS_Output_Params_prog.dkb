@@ -1,0 +1,12 @@
+procedure input_VS_Output_Params( x output y);
+{
+x := x+100;
+y := y+100;
+}
+main{
+inputParam := 10 ;
+outputParam := 10;
+call input_VS_Output_Params( inputParam  output outputParam );
+writeln('inputParam value : ' , inputParam );
+writeln('outputParam value : ' , outputParam );
+}

@@ -1,0 +1,27 @@
+main
+ {
+i := 0 ;
+while( i <=10 ) Do 
+{
+if ( i = 5 ) then 
+break  ;
+
+     writeln( ' The value of the counter is : ' , i ) ;
+i++;
+//i := i+1 ;
+}
+/*
+  for i:=0   To 10  Do 
+    {
+
+if ( i = 0 ) then 
+continue ;
+
+if ( i = 5 ) then 
+break  ;
+
+     writeln( ' The value of the counter is : ' , i ) ;
+   }
+
+*/
+}

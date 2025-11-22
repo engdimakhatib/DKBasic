@@ -1,0 +1,13 @@
+main {
+x := 0 ;
+while ( x <= 10 ) DO 
+{
+if( x % 2 =0) then 
+{
+//print x is even
+}
+else {
+//print x is odd 
+}
+}
+}

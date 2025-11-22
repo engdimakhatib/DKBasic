@@ -1,0 +1,16 @@
+procedure sumAndBiggestNum ( x1 ,  x2  output  y1,  y2 ) ;
+{
+    y1 := x1 + x2 ;
+   if ( x1 < x2 ) then  {
+        y2 := x2  ;  
+    }
+    else {
+        y2  :=  x1  ;
+    }
+}
+main {
+    num1  :=  10  ;
+    call  sumAndBiggestNum ( 5  , num1  output  resultSum ,  resultMax ) ;
+    writeln( ' Sum is : ' ,  resultSum ) ;  //   Sum is : 15
+    writeln( ' Max is : ' ,  resultMax ) ;     // Max is : 10
+}

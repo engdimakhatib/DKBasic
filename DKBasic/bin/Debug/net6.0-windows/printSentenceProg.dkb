@@ -1,0 +1,8 @@
+procedure print ( sentence );
+{
+writeln ( sentence );
+}
+main 
+{
+call  print  ( ' print sentence from user ' );
+}

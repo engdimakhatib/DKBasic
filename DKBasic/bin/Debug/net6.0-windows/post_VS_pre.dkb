@@ -1,0 +1,6 @@
+main {
+    i := 1;
+    writeln(' i value in pre_increment : ' , ++i);   
+    writeln( ' i value in post_increment : ' , i++);   
+    writeln( ' The Final i value After post_increment : ' , i );     
+}

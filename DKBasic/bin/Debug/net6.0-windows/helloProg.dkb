@@ -1,0 +1,8 @@
+procedure print ();
+{
+writeln ( ' Hello World !!! ' );
+}
+main 
+{
+call print();
+}

@@ -1,0 +1,4 @@
+procedure print( sentence);
+{
+write(sentence);
+}
