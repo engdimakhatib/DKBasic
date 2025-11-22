@@ -81,7 +81,7 @@ Global.cs ملف للمتحولات و الميثودات العامة
 ### 🏗️ Technical Architecture
 - **Language:** C#
 - **GUI Framework:** Windows Forms
-- **Workflow:** Lexical → Syntactic → AST → Execution
+- **Workflow:** Lexical → Syntactic → AST → Optimization → Execution
 
 ### 📁 Project Components
 - `Lexical_Analysis.cs` - Lexical analyzer
